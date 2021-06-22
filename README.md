@@ -6,3 +6,10 @@ The solution code from Exercise3 will be merged into this repository after submi
 
 
 https://github.com/ClarissaTreml/Prog2Exercise4
+
+
+##In coorporation with:
+Jasmine Yilmaz 
+
+Christina Muckenhumer
+

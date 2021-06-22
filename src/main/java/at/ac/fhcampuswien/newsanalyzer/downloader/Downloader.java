@@ -8,7 +8,7 @@ import java.net.URL;
 import java.util.List;
 import java.util.Objects;
 
-public abstract class Downloader {
+public abstract class Downloader { //Strategy Pattern--hier interface/abtrakte klasse  für sequentialDownloader und ParallelDownloader
 
     public static final String HTML_EXTENTION = ".html";
     public static final String DIRECTORY_DOWNLOAD = "./download/";
